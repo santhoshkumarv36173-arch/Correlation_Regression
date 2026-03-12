@@ -62,5 +62,6 @@ plt.show()
 ![WhatsApp Image 2026-03-12 at 3 44 18 PM](https://github.com/user-attachments/assets/8c7439e2-3634-4d41-a2ac-e5fb77df53c4)
 
 # Result
+Thus to analyse given data using coeffificient of correlation and regression line is successful
 
 
