@@ -1,4 +1,5 @@
-# Correlation and regression for data analysis
+Date: 10/02/2026
+EXP3:  Correlation and regression for data analysis
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
@@ -21,7 +22,8 @@ If y represents the dependent variable and x the independent variable, this rela
 
 # Program :
 ```
-NAME : SANTHOSH KUMAR V
+NAME  : SANTHOSH KUMAR V
+Reg No: 212225040381
 
 import numpy as np
 import math
@@ -61,7 +63,7 @@ plt.show()
 # Output 
 ![WhatsApp Image 2026-03-12 at 3 44 18 PM](https://github.com/user-attachments/assets/8c7439e2-3634-4d41-a2ac-e5fb77df53c4)
 
-# Result
+# Result :
 Thus to analyse given data using coeffificient of correlation and regression line is successful
 
 
