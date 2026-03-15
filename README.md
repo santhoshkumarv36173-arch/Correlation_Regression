@@ -1,6 +1,6 @@
-DATE: 10/02/2026
+# DATE: 10/02/2026
 
-EXP3:  Correlation and regression for data analysis
+# EXP-3:  Correlation and regression for data analysis
 
 # Aim : 
 
